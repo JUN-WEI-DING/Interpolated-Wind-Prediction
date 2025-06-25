@@ -1,7 +1,7 @@
-# Wind-Farm-Power-Forecasting-Reconstruction-of-Wind-Farm-Feature-Data-and-Uncertainty-Assessment
+# Wind Farm Power Forecasting Reconstruction of Wind Farm Feature Data and UncertaintyAssessment
 
 ## 📘 Project Overview
-This repository contains the implementation for the project titled **"Wind-Farm-Power-Forecasting-Reconstruction-of-Wind-Farm-Feature-Data-and-Uncertainty-Assessment,"** developed as part of the **2025 CAE Internship Program**.
+This repository contains the implementation for the project titled **"Wind Farm Power Forecasting Reconstruction of Wind Farm Feature Data and UncertaintyAssessment,"** developed as part of the **2025 CAE Internship Program**.
 
 
 ## 🚀 Getting Started
