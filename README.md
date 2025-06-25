@@ -1,4 +1,4 @@
-# Smart Low-Carbon Microgrid: Optimization of Dynamic Demand Response and Green Electricity Trading
+# Wind-Farm-Power-Forecasting-Reconstruction-of-Wind-Farm-Feature-Data-and-Uncertainty-Assessment
 
 ## 📘 Project Overview
 This repository contains the implementation for the project titled **"Wind-Farm-Power-Forecasting-Reconstruction-of-Wind-Farm-Feature-Data-and-Uncertainty-Assessment,"** developed as part of the **2025 CAE Internship Program**.
